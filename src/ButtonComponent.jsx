@@ -4,7 +4,6 @@ const ButtonComponent = function (propsObj) {
     <>
       <div>
         <button className={propsObj.textColor}>{propsObj.textToShow}</button>
-        <hr />
       </div>
     </>
   );

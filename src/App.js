@@ -8,6 +8,7 @@ function App() {
     <div>
       <ButtonComponent textToShow="Clicca prima qui" textColor="red" />
       <ButtonComponent textToShow="Dopo clicca qui" textColor="blue" />
+      <hr />
       <ClasseButtonComponent textToShow="Classe: Clicca qui" textColor="red" />
       <ClasseButtonComponent
         textToShow="Classe: E ora clicca qui"
